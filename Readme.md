@@ -1,5 +1,7 @@
 **Members:**
 
+# Total-Group-Project
+
 **Bao Tran**, DIN21SP 
 
 **Thong Dang**, DIN21SP
@@ -59,6 +61,7 @@ The project was done with 2 .env files. One in the frontend folder and another i
 
 In the **Website** folder put the: 
 
+```bash
 PORT=8000 
 
 NODE_ENV="development" 
@@ -70,7 +73,11 @@ And for the **frontend**:
 NODE_ENV="development" 
 
 REACT_APP_SERVER_URL = "http://localhost:8000" 
+```
  
+```bash
 **Link to the server** (The website is quite slow with the large datasets. The loading of the server might take a while):  
 https://react-chart-node-mongodb-frontend.onrender.com/ 
+```
+
 # Total-Group-Project

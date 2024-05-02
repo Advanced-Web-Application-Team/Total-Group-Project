@@ -21,6 +21,8 @@ Users can explore global historical surface temperature anomalies from 1850 onwa
 The project went, mostly, smoothly from the start to the end. 
 Maybe we had a few difficulties at the beginning on how to work as a group, but after we started working and got everything set, all went smoothly till the end.
 
+Project Youtube Link: https://www.youtube.com/watch?v=3MkO4ZvIR_o
+
 **What we used for the project**
 
 For the project, we used, for the frontend, with no other choice, React.js. The project was set that we would use React for it, but we chose for the backend to use Node/express.js. And for the database we used MongoDB. For deployment, we wanted to use Heroku, but the free plan was annulled from it, so after much consideration, we chose to use Render. 

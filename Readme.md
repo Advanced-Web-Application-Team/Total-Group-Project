@@ -21,7 +21,9 @@ Users can explore global historical surface temperature anomalies from 1850 onwa
 The project went, mostly, smoothly from the start to the end. 
 Maybe we had a few difficulties at the beginning on how to work as a group, but after we started working and got everything set, all went smoothly till the end.
 
+```bash
 Project Youtube Link: https://www.youtube.com/watch?v=3MkO4ZvIR_o
+```
 
 **What we used for the project**
 
